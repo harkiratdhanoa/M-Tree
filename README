@@ -1,4 +1,4 @@
-An m-tree is a data structure which indexes objects according to their relative
+An M-Tree is a data structure which indexes objects according to their relative
 distances. It is efficient for nearest-neighbor queries.
 
 This implementation follows the content of the article
